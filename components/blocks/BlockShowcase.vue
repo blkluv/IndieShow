@@ -1,6 +1,3 @@
-<script setup lang="ts">
-import { ref, computed, onMounted } from "vue"
-
 import { UIQRCodeModal, UIScrollAnimation } from "#components"
 import { useI18n } from "#imports"
 import { showcaseConfig } from "~/config/showcase"
